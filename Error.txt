@@ -1,0 +1,1 @@
+If you are missing or mismatching the quote in the line it will say : SyntaxError: EOL while scanning string literal
