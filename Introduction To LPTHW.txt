@@ -1,0 +1,11 @@
+Author: Gurpreet Thind
+
+Objective: To learn and practice Python
+
+Repository: 1
+
+Date: 19 Feb 2020
+
+Revision Number: 1
+
+"Stronger than Yesterday"
